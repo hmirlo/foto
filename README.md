@@ -1,0 +1,2 @@
+# foto
+Fotomatic Project - Codecademy 
